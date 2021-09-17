@@ -2,7 +2,7 @@
 """
 Created on monday 1 june 2020
 
-@author: Anish Kumar
+@author: Anjit Kumar
 """
 
 import numpy as np
